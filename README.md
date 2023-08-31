@@ -1,6 +1,26 @@
 <h1 align="center">HELLO! 👋, I'm Super-dev007, a Senior full-stack developer</h1>
 <h3 align="center">Nice to meet you.</h3>
-
+<p>
+    Frontend:
+    ★ React, Angular, Next.js, TypeScript
+    ★ Vue.js, Nuxt.js, Vuetify, Vuex,
+    ★ SCSS, Tailwind CSS, Styled-Component, MUI, Bootstrap, AntD
+    
+    Backend:
+    ★ Node.js, NestJS, ExpressJS, Core PHP, Cake PHP, Laravel
+    ★ MongoDB, MySQL, FireBase, PostgreSQL
+    
+    Android & iOS:
+    ★ Flutter, Flutterflow, Dart, Kotlin, Firebase
+    ★ PlayStore, AppStore
+    
+    Project version control
+    ★ Github, Gitlab
+    
+    Web Server:
+    ★ AWS
+    ★ Google Cloud
+</p>
 <div align="center">
 <img
     src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
