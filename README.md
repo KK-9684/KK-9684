@@ -1,26 +1,23 @@
 <h1 align="center">HELLO! 👋, I'm KK-9684, a Senior full-stack developer</h1>
 <h3 align="center">Nice to meet you.</h3>
 <p>
-    
-    Frontend:
-    ★ React, Angular, Next.js, TypeScript
-    ★ Vue.js, Nuxt.js, Vuetify, Vuex,
-    ★ SCSS, Tailwind CSS, Styled-Component, MUI, Bootstrap, AntD
-    
-    Backend:
-    ★ Node.js, NestJS, ExpressJS, Core PHP, Cake PHP, Laravel
-    ★ MongoDB, MySQL, FireBase, PostgreSQL
-    
-    Android & iOS:
-    ★ Flutter, Flutterflow, Dart, Kotlin, Firebase
-    ★ PlayStore, AppStore
-    
-    Project version control
-    ★ Github, Gitlab
-    
-    Web Server:
-    ★ AWS
-    ★ Google Cloud
+   💡 Front-end
+ 👉 HTML5, JavaScript, jQuery, Angular, TypeScript
+ 👉 React, Next.js, MERN, MUI, MDB, ANTD, Next UI, Styled-component, T3-app
+ 👉 Vue.js, Vuex, Nuxt.js, Vuetify, Ouasar, 
+ 👉 CSS3, SCSS, Tailwind CSS, Bootstrap, 
+
+💡 Back-end
+ 👉 PHP, Laravel, Code Igniter, Cake PHP, Symfony, Yii
+ 👉 Node.js, Nest.js, Express.js
+ 👉 SQL, MySQL, Postgre SQL,  MongoDB, GraphQL, FireBase, AWS
+
+💡Android & iOS
+ 👉 React native, Flutter, Flutterflow, Dart
+ 👉 PlayStore, AppStore
+
+💡Others
+ WordPress, Woo-commerce, Webflow, Shopify, Web Scraping
 </p>
 <div align="center">
 <img
