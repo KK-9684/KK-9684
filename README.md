@@ -2,22 +2,36 @@
 <h3 align="center">Nice to meet you.</h3>
 <p>
    💡 Front-end
+   <br>
  👉 HTML5, JavaScript, jQuery, Angular, TypeScript
+      <br>
  👉 React, Next.js, MERN, MUI, MDB, ANTD, Next UI, Styled-component, T3-app
+      <br>
  👉 Vue.js, Vuex, Nuxt.js, Vuetify, Ouasar, 
+      <br>
  👉 CSS3, SCSS, Tailwind CSS, Bootstrap, 
+   <br>
 
 💡 Back-end
+   <br>
  👉 PHP, Laravel, Code Igniter, Cake PHP, Symfony, Yii
+    <br>
  👉 Node.js, Nest.js, Express.js
+    <br>
  👉 SQL, MySQL, Postgre SQL,  MongoDB, GraphQL, FireBase, AWS
+    <br>
 
 💡Android & iOS
+   <br>
  👉 React native, Flutter, Flutterflow, Dart
+    <br>
  👉 PlayStore, AppStore
+    <br>
 
 💡Others
+   <br>
  WordPress, Woo-commerce, Webflow, Shopify, Web Scraping
+    <br>
 </p>
 <div align="center">
 <img
