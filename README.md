@@ -30,7 +30,7 @@
 
 💡Others
    <br>
- WordPress, Woo-commerce, Webflow, Shopify, Web Scraping
+👉 WordPress, Woo-commerce, Webflow, Shopify, Web Scraping
     <br>
 </p>
 <div align="center">
