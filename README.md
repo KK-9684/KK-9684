@@ -162,65 +162,7 @@
     <img height="150em" alt="KK-9684
 's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KK-9684?cardType=level&theme=dark&preferLogin=false" />
   </a>
-
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=KK-9684
-&theme=dark" alt="GitHub Streak">
-  </a>
 </div>
 <br/>
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KK-9684
-&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KK-9684
-&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KK-9684
-&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KK-9684
-&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KK-9684
-&theme=dark&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
-
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
-    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
- </div>
-
   
-  
-  
- 
 
-<!-- <h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-  <a href="mailto:andychris9474@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://join.skype.com/invite/xFblvPXgmTM8" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <a href="https://t.me/KK-9684">
-    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discordapp.com/users/KK-9684#2187">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/andrew-christopher-b25574258/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/AndyChris9474">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
-  </a>
-
-</p> -->
