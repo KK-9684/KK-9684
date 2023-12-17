@@ -5,7 +5,9 @@
 <h1>🧙‍♀️ About Me</h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
-I'm a dedicated Senior Full Stack Developer known for architecting resilient web and mobile applications. With a solid background spanning over 8 years in the industry, I've played a pivotal role in an array of projects. From engineering scalable back-end infrastructures to designing seamless and adaptive front-end interfaces, I thrive on delivering holistic solutions.
+I'm a dedicated Senior Full Stack Developer known for architecting resilient web and mobile applications.
+With a solid background spanning over 8 years in the industry, I've played a pivotal role in an array of projects.
+From engineering scalable back-end infrastructures to designing seamless and adaptive front-end interfaces, I thrive on delivering holistic solutions.
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KK-9684.KK-9684" />
 <!--   <img src="https://komarev.com/ghpvc/?username=KK-9684&style=flat-square&color=blue" alt="" align="center"/> -->
