@@ -6,35 +6,47 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
 💡 Front-end
+  
 👉 HTML5, JavaScript, jQuery, Angular, TypeScript
+
 👉 React, Next.js, MERN, MUI, MDB, ANTD, Next UI, Styled-component, T3-app
+
 👉 Vue.js, Vuex, Nuxt.js, Vuetify, Ouasar,
+
 👉 CSS3, SCSS, Tailwind CSS, Bootstrap,
+
 💡 Back-end
+
 👉 PHP, Laravel, Code Igniter, Cake PHP, Symfony, Yii
+
 👉 Node.js, Nest.js, Express.js
+
 👉 SQL, MySQL, Postgre SQL, MongoDB, GraphQL, FireBase, AWS
 
 💡Android & iOS
+
 👉 React native, Flutter, Flutterflow, Dart
+
 👉 PlayStore, AppStore
 
 💡Others
+
 👉 WordPress, Woo-commerce, Webflow, Shopify, Web Scraping
+
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
-<!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KK-9684.KK-9684" />
+<!--   <img src="https://komarev.com/ghpvc/?username=KK-9684&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 
 <!-- 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=KK-9684&style=flat-square&color=blue" alt="" align="center"/>
 </div> -->
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SkyCaptainess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/SkyCaptainess/github-widgetbox) -->
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KK-9684&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/KK-9684/github-widgetbox) -->
 
 <p align="center">
-  <a href="https://github.com/SkyCaptainess">
+  <a href="https://github.com/KK-9684">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
@@ -141,17 +153,19 @@
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-9684&layout=compact&langs_count=7&theme=dark">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=1&column=6" alt="trophy">
+    <img  src="https://github-profile-trophy.vercel.app/?username=KK-9684&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=level&theme=dark&preferLogin=false" />
+    <img height="150em" alt="KK-9684
+'s GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KK-9684?cardType=level&theme=dark&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark" alt="GitHub Streak">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=KK-9684
+&theme=dark" alt="GitHub Streak">
   </a>
 </div>
 <br/>
@@ -159,11 +173,16 @@
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyCaptainess&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyCaptainess&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkyCaptainess&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkyCaptainess&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SkyCaptainess&theme=dark&utcOffset=8" alt="Productive Time">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KK-9684
+&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KK-9684
+&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KK-9684
+&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KK-9684
+&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KK-9684
+&theme=dark&utcOffset=8" alt="Productive Time">
     </div>
    </br>
 </details>
@@ -179,7 +198,7 @@
   
  
 
-<h1 font-weight="bold">
+<!-- <h1 font-weight="bold">
   📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h1>
@@ -191,10 +210,10 @@
   <a href="https://join.skype.com/invite/xFblvPXgmTM8" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://t.me/SkyCaptainess">
+  <a href="https://t.me/KK-9684">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discordapp.com/users/SkyCaptainess#2187">
+  <a href="https://discordapp.com/users/KK-9684#2187">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/in/andrew-christopher-b25574258/">
@@ -204,4 +223,4 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
   </a>
 
-</p>s
+</p> -->
