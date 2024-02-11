@@ -7,7 +7,7 @@
 <p>
 Hi, there. Nice to meet you.
 I'm a dedicated Senior Full Stack Developer known for architecting resilient web and mobile applications.<br>
-With a solid background spanning over 8 years in the industry, I've played a pivotal role in an array of projects.<br>
+With a solid background spanning over 12 years in the industry, I've played a pivotal role in an array of projects.<br>
 From engineering scalable back-end infrastructures to designing seamless and adaptive front-end interfaces, I thrive on delivering holistic solutions.<br>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KK-9684.KK-9684" />
@@ -119,26 +119,5 @@ From engineering scalable back-end infrastructures to designing seamless and ada
     <img height='25em' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
-
-
-
-
-<br/>
-
-
-<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
-
-<div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-9684&layout=compact&langs_count=7&theme=dark">
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=KK-9684&theme=darkhub&row=1&column=6" alt="trophy">
-  </a>
-  <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="KK-9684
-'s GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KK-9684?cardType=level&theme=dark&preferLogin=false" />
-  </a>
-</div>
-<br/>
   
 
