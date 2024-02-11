@@ -7,7 +7,7 @@
 <p>
 Hi, there. Nice to meet you.
 I'm a dedicated Senior Full Stack Developer known for architecting resilient web and mobile applications.<br>
-With a solid background spanning over 12 years in the industry, I've played a pivotal role in an array of projects.<br>
+With a solid background spanning over 14 years in the industry, I've played a pivotal role in an array of projects.<br>
 From engineering scalable back-end infrastructures to designing seamless and adaptive front-end interfaces, I thrive on delivering holistic solutions.<br>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KK-9684.KK-9684" />
